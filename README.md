@@ -1,7 +1,5 @@
-Hi, My name is Scarlett Rivera
-================================
-
-Graphic Designer | UI/UX Designer | Front End Web Developer
+## Hi, My name is Scarlett Rivera
+### Graphic Designer | UI/UX Designer | Front End Web Developer
 -----------------------------------------------------------
 
 * 🌍  I'm based in United States
