@@ -4,9 +4,9 @@ If you like to get to know more about me and my work please check out my portfol
 
 #### Graphic Designer | UI/UX Designer | Front End Web Developer 
 
-✦ I'm based in the United States
-✦ See my portfolio at [SapphireBlueDesigns](http://https://sapphirebluedesigns.com/)
-✦ You can contact me at [Scarlydesigns@gmail.com](mailto:Scarlydesigns@gmail.com)
+* ✦ I'm based in the United States
+* ✦ See my portfolio at [SapphireBlueDesigns](http://https://sapphirebluedesigns.com/)
+* ✦ You can contact me at [Scarlydesigns@gmail.com](mailto:Scarlydesigns@gmail.com)
 
 #### Skills: HTML / CSS / Javascript / SCSS / WordPress / Figma 
 
