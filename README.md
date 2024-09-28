@@ -1,13 +1,13 @@
-⚞ ## Hi, My name is Scarlett Rivera ⚟
-I'm from the United States, I love designing and creating websites. I'm a UI/UX designer/ developer currently working on WordPress and making websites.
+## ⚞ Hi, My name is Scarlett Rivera ⚟
+I'm from the United States, I love designing and creating websites. I'm a UI/UX designer/ developer currently working on making websites on Wordpress.
 If you like to get to know more about me and my work please check out my portfolio below.
-### Graphic Designer | UI/UX Designer | Front End Web Developer
+#### Graphic Designer | UI/UX Designer | Front End Web Developer
 
 ✦ I'm based in the United States
 ✦ See my portfolio at [SapphireBlueDesigns](http://https://sapphirebluedesigns.com/)
 ✦ You can contact me at [Scarlydesigns@gmail.com](mailto:Scarlydesigns@gmail.com)
 
-### Skills: HTML / CSS / Javascript / SCSS / WordPress / Figma 
+#### Skills: HTML / CSS / Javascript / SCSS / WordPress / Figma 
 
 ### Socials
 
